@@ -20,7 +20,7 @@ Dataset
 The dataset used consists of images of handwritten characters. Each image is labeled with the corresponding character. It includes both upper and lower case English alphabets, digits, and possibly special symbols.
 
 **Results**
-The model achieves an accuracy of XX% on the test set. Below is an example of its performance:
+The model achieves an accuracy of 97% on the test set. Below is an example of its performance:
 
 Input: Handwritten Image
 Output: Predicted Character
