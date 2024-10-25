@@ -18,28 +18,6 @@ TensorFlow/Keras - for model creation and training
 OpenCV - for image processing
 Dataset
 The dataset used consists of images of handwritten characters. Each image is labeled with the corresponding character. It includes both upper and lower case English alphabets, digits, and possibly special symbols.
-
-**Steps to Run the Project**
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/handwritten-character-recognition.git
-Navigate to the project directory:
-bash
-Copy code
-cd handwritten-character-recognition
-Install the necessary dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Train the model using the provided dataset:
-bash
-Copy code
-python train_model.py
-Test the model on new handwritten samples:
-bash
-Copy code
-python test_model.py --image path_to_image
 **Results**
 The model achieves an accuracy of XX% on the test set. Below is an example of its performance:
 
