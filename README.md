@@ -18,6 +18,7 @@ TensorFlow/Keras - for model creation and training
 OpenCV - for image processing
 Dataset
 The dataset used consists of images of handwritten characters. Each image is labeled with the corresponding character. It includes both upper and lower case English alphabets, digits, and possibly special symbols.
+
 **Results**
 The model achieves an accuracy of XX% on the test set. Below is an example of its performance:
 
